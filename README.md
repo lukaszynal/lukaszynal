@@ -1,16 +1,31 @@
-### Hi there 👋
+## 👋 Introduction
 
-<!--
-**lukaszynal/lukaszynal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!--https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif-->
 
-Here are some ideas to get you started:
+![status](https://img.shields.io/badge/status-up-brightgreen)
+![Gender](https://img.shields.io/badge/gender-%F0%9F%A4%B5-lightgrey)
+![](https://www.codewars.com/users/lukaszynal/badges/micro)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Hi guys, I'm **Łukasz Szynal**. 
+My advantage is reliability and ease in establishing contacts with people. I am a stress-resistant person and I can work under time pressure. I am characterized by punctuality, consistency in action and responsibility in approaching my work. I'm able to work in a group as well as perform individual tasks. I am an ambitious person who's looking for a new challenges. During my professional experience, I have learned to be responsible, reliabile and patient.
+
+## 📫 Contact Me on Social Media
+
+<a href="https://www.facebook.com/lukaszynal/"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"></a>
+<a href="https://www.linkedin.com/in/lukaszynal/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<a href="mailto:lukaszynal@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+
+
+## 💡 Skills
+
+![](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
+![](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+![](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+![](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)
